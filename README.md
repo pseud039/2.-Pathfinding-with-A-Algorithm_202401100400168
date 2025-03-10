@@ -51,10 +51,5 @@ python main.py
 - Adjust grid size in the configuration file.
 - Add different types of obstacles or weighted paths for advanced pathfinding.
 
-## Contributing
-Feel free to submit pull requests or report issues. Contributions are welcome! 🚀
-
-## License
-This project is licensed under the **MIT License**.
 
 
